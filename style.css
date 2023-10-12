@@ -1,0 +1,57 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: rgb(90, 92, 80);
+}
+
+h1{
+    font-size: 2.5rem;
+  font-weight: 600;
+  text-align: center;
+  color: rgb(196, 197, 176);
+}
+p{
+
+    font-size: 1.3rem;
+    width: 90%;
+    text-align: justify;
+    margin: 10px auto;
+    color: rgb(226, 235, 206);
+    letter-spacing: 2px;
+}
+.link{
+    margin: 20px auto;
+    padding: 20px 10px;
+    text-align: center;
+    font-size: 1.1rem;
+
+}
+.home{
+    padding: 0 10px;
+    color: rgb(236, 221, 84);
+   
+}
+.photo{
+    padding: 0 10px;
+    color: rgb(236, 221, 84);
+}
+.contact{
+    padding: 0 10px; 
+    color: rgb(236, 221, 84);
+}
+.contact-us{
+    font-size: 1.2rem;
+    letter-spacing: normal;
+    width: 90%;
+    text-align: center;
+    margin: 10px auto;
+}
+img{
+    width: 500px;
+    display: flex;
+    justify-content: center;
+    margin: 5px auto;
+    border-radius: 15px;
+    border: 3px solid burlywood;
+    box-shadow: 5px 5px 10px burlywood;
+}
